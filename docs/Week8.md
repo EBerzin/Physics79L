@@ -3,11 +3,11 @@
 Topics covered: Fourier Transform and frequency space, frequency filtering, 2D Fourier methods, Background subtraction for noise reduction and signal amplification. 
 
 * Course material
-  * [Class Slides](https://docs.google.com/presentation/d/1qtrlylFrjuZ-4gW7CGqLBHZMTaFwV9tr8LRbnJbtHls/edit?usp=drive_link)
+  * [Class Slides](https://docs.google.com/presentation/d/1g0l79OjSIM2GUBezhM1dHcTtfROT20SCcuKH7YWxO08/edit?usp=drive_link)
   * [Data analysis topics](#Data%20analysis%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions reference](#Python%20functions%20reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/1va2FBr_smgAQoA3sfFUr-7YVUBoQgQdOOOrBtR7fD_M/edit?usp=drive_link)
+  * [Template for "report" questions](https://docs.google.com/document/d/1qAubcTEF6KyysLInU5Qhl00ebF8kSJtr8XgfrUhNOJE/edit?usp=drive_link)
 
 ## Data analysis topics
 

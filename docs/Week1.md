@@ -10,11 +10,11 @@ Topics covered:
   * Survey of technology and software issues
   * Survey for office hours and instructor access
 * Course material
-  * [Class Slides](https://docs.google.com/presentation/d/1oONrehiWppdOPcdKFqAiprrtvHAZW3NNBZTkdjiGZjY/edit?usp=drive_link)
+  * [Class Slides](https://docs.google.com/presentation/d/1M-F-ZqbLUCCo3gNuXSmj-cAduVHkHQdt-eCpi8y7wic/edit?usp=drive_link)
   * [Measurements and simple statistics](Week1.html#measurements-and-simple-statistics)
   * [Scientific context](Week1.html#scientific-context-and-resources)
   * [Python functions and tools reference](Week1.html#python-functions-and-tools-reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/12bf_Ml4WiMCSPDr7cQ7rtkRrUO__Q4zMBR8YEJhw8mY/edit?usp=drive_link)
+  * [Template for "report" questions](https://docs.google.com/document/d/1FKtmsrC6G7HsGDc3TpXo1E1y8jlqCjSw8lnVxfFn7-w/edit?usp=drive_link)
 
 
 ## Measurements and simple statistics

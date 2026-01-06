@@ -1,4 +1,4 @@
-# Setting up your computer for Physics 89L
+# Setting up your computer for Physics 79L
 
 We will be using [Jupyter notebooks](https://jupyter.org/) running Python kernels to do the labs in this course. [This](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) is a brief explanation of what a jupyter notebook is. Please follow the instructions on this page to set up the software needed to run these jupyter notebooks.
 
@@ -81,8 +81,8 @@ The Github Desktop application is both a nice tool to interface with git, and a 
 2. You should make a Github account if you do not have one, as it will be useful beyond this course, and is needed to download the repository
 3. Once you have installed github desktop and made an account, click on the "Current Repository" box in the upper left corner.  This gives you a text box and a pull-down menu. 
      1. Alternatively, where it says "Let's get started!", click "Clone a Repository from the Internet", and then select the "URL" tab.
-4. Type in 'KIPAC/Physics89L' into the test box and select "Clone Repository..." from the drop-down menu.
-5. This will "clone" the repository onto your computer, for example putting it in "Documents/GitHub/Physics89L"
+4. Type in 'KIPAC/Physics79L' into the text box and select "Clone Repository..." from the drop-down menu.
+5. This will "clone" the repository onto your computer, for example putting it in "Documents/GitHub/Physics79L"
      1. You can always change this installation location if you have already have a file organization structure in place on your laptop.
 6. At any point you can then update your local copy from the "origin" repository by clicking on "Fetch Origin" button.
 7. This will show all the changes that you have made to your local version.  As part of the course, we'll talk about how to keep your local changes and merge any updates from the "origin".
@@ -95,7 +95,7 @@ You can find instructions on how to install git [here](https://git-scm.com/book/
 
 Once you have installed git, from a terminal window you can do:
 
-`git clone https://github.com/KIPAC/Physics89L`
+`git clone https://github.com/KIPAC/Physics79L`
 
 to install the repository on your computer.
 
@@ -106,7 +106,7 @@ Once you interact with the files and make changes, your code will necessarily di
 
 If you don't want to use git, you can always just download a snapshot of the repository each week before class.
 
-Go to https://github.com/KIPAC/Physics89L and click on the green "Code" button in and select "Download ZIP" from the drop-down menu.
+Go to https://github.com/KIPAC/Physics79L and click on the green "Code" button in and select "Download ZIP" from the drop-down menu.
 
 Note that this will download the current version of the repository, so you will want to do this each week before class to include any changes made.  You probably want to save the older version first so that you can refer to previous work.
 
@@ -128,7 +128,7 @@ To test your setup, navigate to "nb" folder of this repository and run the "Test
 
 If you click on the "Run" button twice, and you have everything set up correctly you should see a plot that looks like this:
 
-[It Works](https://github.com/KIPAC/Physics89L/blob/main/nb/figures/it_works.png)
+[It Works](https://github.com/KIPAC/Physics79L/blob/main/nb/figures/it_works.png)
 
 You can also run each individual "cell" by clicking on it and typing `Shift+Enter`.
 
@@ -139,7 +139,7 @@ You can run these notebooks using jupyter on the cloud if you run into issues in
 
 You can run the notebooks for week 1 by navigating to this site:
 
-[My Binder](https://mybinder.org/v2/gh/KIPAC/Physics89L/HEAD)
+[My Binder](https://mybinder.org/v2/gh/KIPAC/Physics79L/HEAD)
 
 It is fine to run binder the first week, but we would like to get everyone set up with the software on their computers by the second week.  This will make it easier for you to save you work and include it in the lab reports. Please contact one of the instructors for help.
 

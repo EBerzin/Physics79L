@@ -21,7 +21,7 @@ Here is a description of the five template projects available:
 
 #### 1. Quantifying the "Hubble Tension"
 
-- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Hubble_Tension.ipynb)
+- [Notebook](https://github.com/KIPAC/Physics79L/blob/main/nb/Project_Hubble_Tension.ipynb)
 
 - In the first couple weeks of the class we saw that the measurements of the Hubble parameter were not distributed as a Gaussian. This project involves investigating the difference between two techniques used to measure the Hubble parameter, and evaluating if these two techniques are giving consistent results.
 
@@ -29,7 +29,7 @@ Here is a description of the five template projects available:
 
 #### 2. Gaining a deeper understanding of fitting model parameters
 
-- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Fitting_Deep_Dive.ipynb)
+- [Notebook](https://github.com/KIPAC/Physics79L/blob/main/nb/Project_Fitting_Deep_Dive.ipynb)
 
 - In this project you will go back to the Vela pulsar data, and you will study the process of fitting the model parameters in more mathematical detail. This will help you to understand the mathematical relationships between some of the statistics that we studied in this course.
 
@@ -37,7 +37,7 @@ Here is a description of the five template projects available:
 
 #### 3. A search for the Higgs boson
 
-- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Higgs_Search.ipynb)
+- [Notebook](https://github.com/KIPAC/Physics79L/blob/main/nb/Project_Higgs_Search.ipynb)
 
 - This project is similar to the dark matter search, but instead you will be looking evidence of a new particle in collisions at the Large Hadron Collider. 
 
@@ -45,7 +45,7 @@ Here is a description of the five template projects available:
 
 #### 4. A search for exoplanets using Fourier analysis
 
-- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Exoplanet.ipynb)
+- [Notebook](https://github.com/KIPAC/Physics79L/blob/main/nb/Project_Exoplanet.ipynb)
 
 - This project will incorporate Fourier techniques to look for exoplanets. You will be asked to explore how noise and limited statistics can affect the strength of a periodic signal.
 
@@ -53,7 +53,7 @@ Here is a description of the five template projects available:
 
 #### 5. Calibrating an Optical Tweezer using Fourier analysis
 
-- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_Optical_Tweezers_Calibration.ipynb)
+- [Notebook](https://github.com/KIPAC/Physics79L/blob/main/nb/Project_Optical_Tweezers_Calibration.ipynb)
 
 - This project will make use of Fourier techniques to calibrate the response of an optically levitated microsphere to external forces. This is accomplished by configuring the microsphere to have single excess electron and thus a net charge of $q = -e$, and then driving it with a known electric field and observing the response.
 
@@ -61,7 +61,7 @@ Here is a description of the five template projects available:
 
 #### 6. Writing an Automated Peak-Fitting Algorithm
 
-- [Notebook](https://github.com/KIPAC/Physics89L/blob/main/nb/Project_SDSS_Line_Fit_Algo.ipynb)
+- [Notebook](https://github.com/KIPAC/Physics79L/blob/main/nb/Project_SDSS_Line_Fit_Algo.ipynb)
 
 - This project will involve returning to the SDSS spectral data and refining the regression of a spectral line fit. The ultimate goal is to develop an automated peak-finding and peak-fitting algorithm that can be "let loose" on spectral data with minimal supervision. First, one must demonstrate robust and unsupervised fitting of a single peak, followed by generalized fitting of many peaks.
 
@@ -71,7 +71,7 @@ Here is a description of the five template projects available:
 ### Grading rubric
 
 - The project will be graded out of 3, and will use a similar rubric to the lab reports. It will be weighted as 2 lab reports.
-- Projects will be due on Monday, June 10.
+- Projects will be due on Wednesday, March 11.
 - No late projects will be accepted without prior approval.
 - A reminder that an average grade of 2 or above, averaged over all of the assignments, is required to receive credit for the course. All assignments **must be completed**, regardless of your average grade.
 

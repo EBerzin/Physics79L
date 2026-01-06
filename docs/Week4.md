@@ -3,11 +3,11 @@
 Topics covered: Gaussian distribution and p-values.
 
 * Course material
-  * [Class Slides](https://docs.google.com/presentation/d/1w_4uGckpBr8uVEaR15bQtk4VeMH32Zndq_uqovBuSdI/edit?usp=drive_link)
+  * [Class Slides](https://docs.google.com/presentation/d/1XFNkLLN-sxIA__LAidkDnwq4XpkjwgPe79OFbzpjqVs/edit?usp=drive_link)
   * [Data analysis topics](#Data%20analysis,%20topics)
   * [Scientific context](#Scientific%20context%20and%20resources)
   * [Python functions and tools reference](#Python%20functions%20reference)
-  * [Template for "report" questions](https://docs.google.com/document/d/1bmZwrVMNye_1oG1T88v1GhwWX1dXflY9gdxg8DVS7ks/edit?usp=drive_link)
+  * [Template for "report" questions](https://docs.google.com/document/d/1VJKgUXC5ML6bvhed6-O0GOhF74H98IM27VAAfdvef68/edit?usp=drive_link)
 
 ## Data analysis topics
 
