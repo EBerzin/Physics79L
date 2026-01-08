@@ -35,7 +35,7 @@ the software tools that you will be using in the course.
   * [Software setup](setup.md)
   * [Social guidelines and expectations](social.md)
 
-<!-- The content for lab sections, including some introductory materials and 
+The content for lab sections, including some introductory materials and 
 lists of important new python functions that you might encounter, are 
 included below. Content is separated by week, with links to relevant slides, 
 as well as the notebooks that we will work with for a particular week.
@@ -48,6 +48,7 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 2: "Dice rolls and histograms"](https://github.com/KIPAC/Physics79L/blob/main/nb/01_02_Dice_Rolls_and_Histograms.ipynb)
   * [Notebook 3: "Hubble constant measurements"](https://github.com/KIPAC/Physics79L/blob/main/nb/01_03_Hubble_Measurements.ipynb)
 
+<!-- 
 * __Notes for Week 2__: 
   * Topics: Weighted averages and Poisson statistics
   * [Class Slides](https://docs.google.com/presentation/d/1Q22TVtUrDc6y_9HTC5t4RxBeNDE-NSesceukpSsUUdY/edit?usp=drive_link)
