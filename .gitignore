@@ -1,5 +1,6 @@
 docs_after/
 nb/old/
+scratch/
 
 # OSX indexing files
 .DS_Store
@@ -139,3 +140,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm folder
+.idea/
