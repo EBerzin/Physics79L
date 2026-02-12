@@ -76,8 +76,6 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Correlations"](https://github.com/KIPAC/Physics79L/blob/main/nb/05_01_Correlations.ipynb)
   * [Notebook 2: "Fitting a line to data"](https://github.com/KIPAC/Physics79L/blob/main/nb/05_02_Fitting_A_Line_to_Data.ipynb)
 
-<!-- 
-
 * __Notes for Week 6__: 
   * Topics: Minimizers and fitting
   * [Class Slides](https://docs.google.com/presentation/d/1cfz69X1GMkXxeCSE-b1umPYelJMZGNlVSfHJi7xxSDk/edit?usp=drive_link)
@@ -85,6 +83,7 @@ as well as the notebooks that we will work with for a particular week.
   * [Notebook 1: "Optimizing a fit and how to do it wrong"](https://github.com/KIPAC/Physics79L/blob/main/nb/06_01_Optimizing_a_fit_and_how_to_do_it_wrong.ipynb)
   * [Notebook 2: "SDSS Spectra"](https://github.com/KIPAC/Physics79L/blob/main/nb/06_02_SDSS_Spectra.ipynb)
 
+<!-- 
 
 * __Notes for Week 7__: 
   * Topics: Data selection, efficiency, leakage, and rare event searches
